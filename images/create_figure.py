@@ -17,26 +17,47 @@ plt.close('all')
 
 #%% Plot data
 
-#D = json.load('../data/DROPBEAR_dataset.json')
-
-
 
 with open('../data/DROPBEAR_dataset.json') as f:
   data = json.load(f)
   
-# acceleration_data_tt = np.arange(len(data['acceleration_data']))*1/data['accelerometer_sample_rate']
+measured_pin_location_tt = np.asarray(data['measured_pin_location_tt'])
+measured_pin_location = np.asarray(data['measured_pin_location'])
+acceleration_data_tt = np.asarray(data['acceleration_data_tt'])
+acceleration_data = np.asarray(data['acceleration_data'])
 
-
-# data_2={'measured_pin_location_tt':data['measured_pin_location_tt'],
-#         'measured_pin_location':data['measured_pin_location'],
-#         'acceleration_data':data['acceleration_data']}  
-  
-# with open('../data/DROPBEAR_dataset.json', 'w') as outfile:
-#     json.dump(data, outfile)  
-  
-plt.figure(figsize=(6.5,4))
-plt.plot(data['measured_pin_location_tt'],data['measured_pin_location'])  
+plt.figure(figsize=(6.5,3))
+plt.plot(measured_pin_location_tt,measured_pin_location)  
 plt.xlabel('time (s)')
-plt.ylabel('pin_location')
-  
+plt.ylabel('pin location (m)')
+plt.grid(True)
+plt.xlim([0,44])
+plt.tight_layout()
+plt.savefig('pin_locatoin_data')
+
+
+
+plt.figure(figsize=(6.5,3))
+plt.plot(acceleration_data_tt,acceleration_data,lw=0.1)  
+plt.xlabel('time (s)')
+plt.ylabel('acceleration (m/s$^2$)')
+plt.grid(True)
+plt.xlim([0,44])
+plt.tight_layout()
+plt.savefig('acceleration_data')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   

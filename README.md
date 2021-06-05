@@ -1,5 +1,38 @@
 # Dataset-Downey-2020-Millisecond-Model-Updating
-Dataset orginally published in Downey et al. "Millisecond Model Updating for Structures Experiencing Unmodeled High-rate Dynamic Events." Mechanical Systems and Signal Processing, vol. 138, 2020, p. 106551, doi:10.1016/j.ymssp.2019.106551
+Dataset originally published in Downey et al. "Millisecond Model Updating for Structures Experiencing Unmodeled High-rate Dynamic Events." Mechanical Systems and Signal Processing, vol. 138, 2020, p. 106551, doi:10.1016/j.ymssp.2019.106551
+
+
+<p align="center">
+<img src="images/DROPBEAR.png" alt="drawing" width="600"/>
+</p>
+<p align="center">
+Figure 2: Deacceleration data for test 1, 3, and 5. 
+</p>
+
+
+<p align="center">
+<img src="images/pin_locatoin_data.png" alt="drawing" width="600"/>
+</p>
+<p align="center">
+Figure 2: Deacceleration data for test 1, 3, and 5. 
+</p>
+
+
+
+
+
+
+<p align="center">
+<img src="images/acceleration_data.png" alt="drawing" width="600"/>
+</p>
+<p align="center">
+Figure 2: Deacceleration data for test 1, 3, and 5. 
+</p>
+
+
+
+
+
 
 ## Notes
 
