@@ -1,12 +1,22 @@
 # Dataset-2-DROPBEAR-Acceleration-vs-Roller-Displacement
 
-This data set consists of acceleration data measured from the Reproduction of Projectiles in Ballistic Environments for Advanced Research (DROPBEAR) experimental testbed with movable roller support as shown in figure 1. DROPBEAR consists of a 51 x 6 x 350 mm beam with a single accelerometer (model 393B04 manufactured by PCB Piezotronics) mounted at the free edge of the beam was used. 
+This data set consists of acceleration data measured from the Reproduction of Projectiles in Ballistic Environments for Advanced Research (DROPBEAR) experimental testbed with movable roller support as shown in figure 1. DROPBEAR consists of a 51 x 6 x 350 mm beam with a single accelerometer (model 393B04 manufactured by PCB Piezotronics) mounted at the free edge of the beam was used. A video of the test can be found <a href="https://www.youtube.com/watch?v=ZB6AUWgWyJU&ab_channel=ARTS-LabattheUniversityofSouthCarolinaARTS-LabattheUniversityofSouthCarolina">here</a>.
+
+
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=ZB6AUWgWyJU&ab_channel=ARTS-LabattheUniversityofSouthCarolinaARTS-LabattheUniversityofSouthCarolina"><img src="images/DROPBEAR.png" alt="Shock test impact testing" width="600"></a>  
+</p>
+<p align="center">
+Figure 1: The Dynamic Reproduction of Projectiles in Ballistic Environments for Advanced Research (DROPBEAR) experimental testbed with key components annotated (click the image to view the video on YouTube). 
+</p>
+
 
 <p align="center">
 <img src="images/DROPBEAR.png" alt="drawing" width="600"/>
 </p>
 <p align="center">
-Figure 1: 2. The Dynamic Reproduction of Projectiles in Ballistic Environments for Advanced Research (DROPBEAR) experimental testbed with key components annotated. 
+Figure 1: The Dynamic Reproduction of Projectiles in Ballistic Environments for Advanced Research (DROPBEAR) experimental testbed with key components annotated. 
 </p>
 
 The roller followed a predefined profile that ranged from 48 mm (closest to the fixity) to 175 mm as presented in the inset of Figure 2. The beam is self-excited by the roller's movements and therefore no extraneous inputs are required, however, this does require an initial input to the beam, which consists of a small roller movement, to initiate vibrations in the beam. In addition to this initial input, the test profile consists of six square wave inputs of increasing amplitude in addition to six sinusoidal inputs and six impulse inputs. For the cases of the square and impulse inputs, the actuator velocity was maximized to the extent allowed by the actuator and associated controller (250 mm/s). The measured vibration data is shown in figure 3.
