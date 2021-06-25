@@ -46,9 +46,9 @@ Austin Downey, Jonathan Hong, Jacob Dodson, Michael Carroll, and James Scheppegr
 
 @Misc{Downey2021Dataset2Dropbear,  
   author = {Austin Downey and Jonathan Hong and Jacob Dodson and Michael Carroll and James Scheppegrell},  
-  month  = dec,  
+  month  = apr,  
   title  = {Dataset-2-DROPBEAR-Acceleration-vs-Roller-Displacement},  
-  year   = {2021},  
+  year   = {2020},  
   groups = {High-Rate-SHM-Working-Group},  
   url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-2-DROPBEAR-Acceleration-vs-Roller-Displacement},  
 }  
