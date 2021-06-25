@@ -40,6 +40,18 @@ This data set has subsequently been used in the following publications:
 1. Claire Rae Drnek, "Local Eigenvalue Modification Procedure for Real-time Model Updating of Structures Experiencing High-rate Dynamic Events." University of South Carolina, 2020, University of South Carolina Graduate Theses and Dissertations.
 
 
+Cite this data as: 
+
+Austin Downey, Jonathan Hong, Jacob Dodson, Michael Carroll, and James Scheppegrell, “Dataset-2-dropbearacceleration-vs-roller-displacement,” Dec. 2021. [Online]. Available: https://github.com/High-Rate-SHM-Working-Group/Dataset-2-DROPBEAR-Acceleration-vs-Roller-Displacement
+
+@Misc{Downey2021Dataset2Dropbear,  
+  author = {Austin Downey and Jonathan Hong and Jacob Dodson and Michael Carroll and James Scheppegrell},  
+  month  = dec,  
+  title  = {Dataset-2-DROPBEAR-Acceleration-vs-Roller-Displacement},  
+  year   = {2021},  
+  groups = {High-Rate-SHM-Working-Group},  
+  url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-2-DROPBEAR-Acceleration-vs-Roller-Displacement},  
+}  
 
 
 
