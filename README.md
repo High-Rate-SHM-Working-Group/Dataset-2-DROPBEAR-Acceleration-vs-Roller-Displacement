@@ -44,7 +44,7 @@ This data set has subsequently been used in the following publications:
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Where applicable and legal, this work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. This license is not intended to supersede government license requirements. In good faith, all images within the repository are assumed to be licensed under [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+Where applicable and legal, this work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. This license is not intended to supersede government license requirements. In good faith, all images within the repository are assumed to be licensed under a cc-by-sa [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
  
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
