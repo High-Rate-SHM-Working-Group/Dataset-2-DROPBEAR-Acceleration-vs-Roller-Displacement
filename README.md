@@ -27,6 +27,13 @@ The measured vibration data is shown in figure 3.  Data acquisition was performe
 Figure 3: Measured acceleration data for this data set. 
 </p>
 
+<p align="center">
+<img src="images/DROPBEAR_Setup.png" alt="drawing" width="600"/>
+</p>
+<p align="center">
+Figure 4: DROPBEAR test setup with displacement input and measured acceleration.
+</p>
+
 This data set originally published in Downey et al. "Millisecond Model Updating for Structures Experiencing Unmodeled High-rate Dynamic Events." Mechanical Systems and Signal Processing, vol. 138, 2020, p. 106551, doi:10.1016/j.ymssp.2019.106551. Published as (Distribution A. Approved for public release; distribution unlimited (96TW-2019-0372).
 
 
