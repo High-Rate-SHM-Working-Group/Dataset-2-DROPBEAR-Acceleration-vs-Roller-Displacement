@@ -1,4 +1,12 @@
-# Dataset-2-DROPBEAR-Acceleration-vs-Roller-Displacement
+# Dataset-2-DROPBEAR-Acceleration-vs-Roller-Displacement (deprecated)
+
+---
+**NOTE**
+
+This dataset is deprecated. It is recommended to use Dataset-8 "DROPBEAR-Acceleration-vs-Roller-Displacement" <a href="https://github.com/High-Rate-SHM-Working-Group/Dataset-8-DROPBEAR-Acceleration-vs-Roller-Displacement">here</a> which contains similar data but in greater quantity and quality. 
+---
+
+
 
 This data set consists of acceleration data measured from the Reproduction of Projectiles in Ballistic Environments for Advanced Research (DROPBEAR) experimental testbed with movable roller support as shown in figure 1. DROPBEAR consists of a 51 x 6 x 350 mm beam with a single accelerometer (model 393B04 manufactured by PCB Piezotronics) mounted at the free edge of the beam was used. A video of the test along can be found <a href="https://www.youtube.com/watch?v=ZB6AUWgWyJU&ab_channel=ARTS-LabattheUniversityofSouthCarolinaARTS-LabattheUniversityofSouthCarolina">here</a>.
 
